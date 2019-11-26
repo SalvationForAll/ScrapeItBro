@@ -1,0 +1,5 @@
+Requirements:
+1) PHP installed in your system (Latest version recommended)
+2) PHP supported IDE installed in your system (SublimeText, PHPStorm or any other)
+3) Xampp installed in your system.
+4) Fast internet connection (since the scraping of data depends on it).
